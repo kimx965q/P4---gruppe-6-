@@ -1,0 +1,14 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Contact</title>
+  <link rel="stylesheet" href="css/stylesheet.css">
+</head>
+<body>
+  <h>Contact</h>
+  <br>
+  <p>This is a contact site</p>
+</body>
+</html>
